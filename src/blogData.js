@@ -378,7 +378,7 @@ The combination of React's component model, CSS animations, EmailJS for backend-
 
 *Tech Stack: React, Vite, EmailJS, CSS3, GitHub Actions*
 *Features: Dark Mode, Smooth Scroll, Contact Form, Mobile Optimized, Animated Stats, Certifications, Timeline, Loading Screen*
-*View the code: [github.com/arunreddy9595/arunreddy9595.github.io](https://github.com/arunreddy9595/arunreddy9595.github.io)*
+*View the code: [github.com/ultracoder2/ultracoder2.github.io](https://github.com/ultracoder2/ultracoder2.github.io)*
     `,
     tags: ['Portfolio', 'React', 'EmailJS', 'Mobile UX', 'Web Development', 'Dark Mode', 'Responsive Design'],
     readTime: '8 min read'
