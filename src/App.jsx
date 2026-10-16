@@ -326,7 +326,7 @@ const projects = [
     description: 'Built a scalable microservices-based e-commerce platform handling 10K+ transactions per day with Spring Boot, Kafka, and MongoDB.',
     technologies: ['Spring Boot', 'Kafka', 'MongoDB', 'Docker', 'Kubernetes', 'AWS'],
     highlights: ['99.9% uptime', 'Real-time inventory', 'Payment gateway integration'],
-    github: 'https://github.com/arunreddy9595',
+    github: 'https://github.com/ultracoder2',
     live: null,
     image: '🛒'
   },
@@ -336,7 +336,7 @@ const projects = [
     description: 'Developed RESTful API gateway for banking operations with OAuth2 security, rate limiting, and comprehensive audit logging.',
     technologies: ['Java 11', 'Spring Security', 'PostgreSQL', 'Redis', 'AWS Lambda'],
     highlights: ['OAuth2 + JWT', 'Rate limiting', 'Audit compliance'],
-    github: 'https://github.com/arunreddy9595',
+    github: 'https://github.com/ultracoder2',
     live: null,
     image: '🏦'
   },
@@ -346,7 +346,7 @@ const projects = [
     description: 'Created a real-time data processing pipeline and visualization dashboard using Kafka Streams and React for business intelligence.',
     technologies: ['Kafka Streams', 'React', 'Spring Boot', 'WebSocket', 'D3.js'],
     highlights: ['Real-time processing', 'Interactive charts', 'Custom alerts'],
-    github: 'https://github.com/arunreddy9595',
+    github: 'https://github.com/ultracoder2',
     live: null,
     image: '📊'
   },
@@ -356,7 +356,7 @@ const projects = [
     description: 'Architected and executed migration of legacy monolith to cloud-native microservices on AWS, reducing costs by 40%.',
     technologies: ['AWS', 'Docker', 'Jenkins', 'Terraform', 'Spring Cloud'],
     highlights: ['40% cost reduction', 'Zero downtime', 'Auto-scaling'],
-    github: 'https://github.com/arunreddy9595',
+    github: 'https://github.com/ultracoder2',
     live: null,
     image: '☁️'
   }
@@ -849,7 +849,7 @@ function App() {
               <LinkedInIcon />
               <span>LinkedIn</span>
             </a>
-            <a href="https://github.com/arunreddy9595" target="_blank" rel="noopener noreferrer" className="contact-item">
+            <a href="https://github.com/ultracoder2" target="_blank" rel="noopener noreferrer" className="contact-item">
               <GitHubIcon />
               <span>GitHub</span>
             </a>
@@ -962,7 +962,7 @@ function App() {
                 {/* GitHub Stats Card */}
                 <div className="github-stat-card">
                   <img 
-                    src="https://github-readme-stats.vercel.app/api?username=arunreddy9595&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=89b4fa&cache_seconds=1800&date=20260126"
+                    src="https://github-readme-stats.vercel.app/api?username=ultracoder2&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&icon_color=89b4fa&cache_seconds=1800&date=20260126"
                     alt="Arun's GitHub Stats"
                     loading="lazy"
                   />
@@ -971,7 +971,7 @@ function App() {
                 {/* Top Languages Card */}
                 <div className="github-stat-card">
                   <img 
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunreddy9595&layout=compact&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&cache_seconds=1800&date=20260126"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultracoder2&layout=compact&theme=dark&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4&cache_seconds=1800&date=20260126"
                     alt="Top Languages"
                     loading="lazy"
                   />
@@ -981,7 +981,7 @@ function App() {
               {/* GitHub Streak Stats */}
               <div className="github-streak">
                 <img 
-                  src="https://streak-stats.demolab.com/?user=arunreddy9595&theme=dark&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f38ba8&currStreakLabel=cdd6f4&date_format=M%20j%5B%2C%20Y%5D"
+                  src="https://streak-stats.demolab.com/?user=ultracoder2&theme=dark&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f38ba8&currStreakLabel=cdd6f4&date_format=M%20j%5B%2C%20Y%5D"
                   alt="GitHub Streak Stats"
                   loading="lazy"
                 />
@@ -991,7 +991,7 @@ function App() {
               <div className="github-activity">
                 <h3 className="github-activity-title">Contribution Activity</h3>
                 <a 
-                  href="https://github.com/arunreddy9595" 
+                  href="https://github.com/ultracoder2" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="github-link-btn"
@@ -1236,7 +1236,7 @@ function App() {
               <LinkedInIcon />
             </a>
             <a 
-              href="https://github.com/arunreddy9595" 
+              href="https://github.com/ultracoder2" 
               target="_blank" 
               rel="noopener noreferrer"
               className="social-link"
